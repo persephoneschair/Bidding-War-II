@@ -1,0 +1,271 @@
+{
+  "author": "innisc",
+  "r1Questions": [
+    {
+      "category": "ECONOMICS",
+      "question": "What word, also the name of a popular game, refers to a market situation in which there is only one supplier of a particular commodity or service?",
+      "validAnswers": [
+        "Monopoly"
+      ]
+    },
+    {
+      "category": "FAST FOOD",
+      "question": "The global fast food chain KFC was founded by a Kentucky businessman named Harland David... what?",
+      "validAnswers": [
+        "Sanders"
+      ]
+    },
+    {
+      "category": "TELEVISION",
+      "question": "In which award-winning Netflix drama series have Claire Foy and Olivia Colman both portrayed Queen Elizabeth II?",
+      "validAnswers": [
+        "The Crown",
+        "Crown"
+      ]
+    },
+    {
+      "category": "SPORTING TERMS",
+      "question": "What word, also encountered in the context of playing cards, is used in tennis to refer to a serve that wins the rally immediately?",
+      "validAnswers": [
+        "Ace"
+      ]
+    },
+    {
+      "category": "ART",
+      "question": "According to the title of Johannes Vermeer's most famous painting, the titular figure is wearing an earring made of what?",
+      "validAnswers": [
+        "Pearl"
+      ]
+    }
+  ],
+  "r2Questions": [
+    {
+      "category": "THE HUMAN BODY",
+      "question": "The human brain is primarily composed of two types of tissue, known as 'white matter' and what other colour of 'matter'?",
+      "validAnswers": [
+        "Grey",
+        "gray"
+      ]
+    },
+    {
+      "category": "TV SITCOMS",
+      "question": "The American sitcom 'Everybody Hates Chris' was based on the early life of which comedian?",
+      "validAnswers": [
+        "Chris Rock",
+        "Rock",
+        "Christopher Rock"
+      ]
+    },
+    {
+      "category": "GEOGRAPHY",
+      "question": "Which volcano, over 3,000 metres tall, is situated on the island of Sicily?",
+      "validAnswers": [
+        "Etna",
+        "Mt. Etna",
+        "Mt Etna",
+        "Mount Etna"
+      ]
+    },
+    {
+      "category": "BOOKS",
+      "question": "In Mary Shelley's 'Frankenstein', what is the first name of Doctor Frankenstein?",
+      "validAnswers": [
+        "Victor"
+      ]
+    },
+    {
+      "category": "POP MUSIC",
+      "question": "'Don't just stand there, let's get to it. Strike a pose, there's nothing to it' is a lyric from which Madonna song, one of the world's biggest-selling singles in 1990?",
+      "validAnswers": [
+        "Vogue"
+      ]
+    },
+    {
+      "category": "BUSINESS",
+      "question": "Elizabeth Holmes is currently on trial in connection with her activities as chief executive of what company?",
+      "validAnswers": [
+        "Theranos"
+      ]
+    },
+    {
+      "category": "20TH-CENTURY HISTORY",
+      "question": "'Satyagraha' is a form of non-violent resistance developed by which civil leader, who was assassinated in 1948?",
+      "validAnswers": [
+        "Gandhi",
+        "Mahatma Gandhi",
+        "Mohandas Gandhi",
+        "Mohandas Karamchand Gandhi"
+      ]
+    },
+    {
+      "category": "FAMOUS SPORTSPEOPLE",
+      "question": "George Foreman, who gives his name to the George Foreman grill, is primarily famous as a competitor in what sport?",
+      "validAnswers": [
+        "Boxing",
+        "Boxer",
+        "Box"
+      ]
+    },
+    {
+      "category": "CLASSICAL MUSIC",
+      "question": "'The Bridal Chorus', commonly known as 'Here Comes The Bride', is an excerpt from 'Lohengrin', a work by which composer?",
+      "validAnswers": [
+        "Wagner",
+        "Richard Wagner"
+      ]
+    },
+    {
+      "category": "ANIMATION",
+      "question": "Voiced by Melendy Britt in a 1980s cartoon series, which superheroine is the twin sister of He-Man?",
+      "validAnswers": [
+        "She-Ra",
+        "Adora",
+        "Shera"
+      ]
+    }
+  ],
+  "r3Questions": [
+    {
+      "category": "MODERN LANGUAGES",
+      "question": "The foodstuff known in French as 'citron vert' has what one-word name in English?",
+      "validAnswers": [
+        "Lime"
+      ]
+    },
+    {
+      "category": "MEDIEVAL HISTORY",
+      "question": "Though it was not known as such during its existence, the Eastern Roman Empire is now usually referred to in English by what name?",
+      "validAnswers": [
+        "Byzantine Empire",
+        "Byzantine",
+        "Byzantium"
+      ]
+    },
+    {
+      "category": "VIDEO GAMES",
+      "question": "One of the best-selling virtual reality games of all time, which 2019 rhythm game sees the player striking red and blue blocks with a pair of illuminated swords?",
+      "validAnswers": [
+        "Beat Saber",
+        "Beat Sabre",
+        "Beatsaber",
+        "Beatsabre"
+      ]
+    },
+    {
+      "category": "OSCARS",
+      "question": "At the 1973 Oscars ceremony, the activist Sacheen Littlefeather famously declined an award on behalf of which actor?",
+      "validAnswers": [
+        "Marlon Brando",
+        "Brando",
+        "Marlon Brando Jr",
+        "Brando Jr"
+      ]
+    },
+    {
+      "category": "CELEBRITIES",
+      "question": "The second-most-liked Instagram post of all time was created in May 2021 by which singer, when she uploaded photos from her wedding to Dalton Gomez?",
+      "validAnswers": [
+        "Ariana Grande",
+        "Grande"
+      ]
+    },
+    {
+      "category": "DRAMA",
+      "question": "Near the end of a famous 20th-century play, Vladimir and Estragon are informed that which character will not be coming?",
+      "validAnswers": [
+        "Godot"
+      ]
+    },
+    {
+      "category": "WORLD POLITICS",
+      "question": "António Guterres, the current Secretary-General of the United Nations, previously served as prime minister of which country?",
+      "validAnswers": [
+        "Portugal"
+      ]
+    },
+    {
+      "category": "ROCK MUSIC",
+      "question": "[First name AND surname required] The bands Queen and Duran Duran both had long-time drummers with what full name?",
+      "validAnswers": [
+        "Roger Taylor"
+      ]
+    }
+  ],
+  "r4Questions": [
+    {
+      "category": "WORDS",
+      "question": "The word 'con', referring to a scam or deception, was coined as an abbreviation of what longer word?",
+      "validAnswers": [
+        "Confidence",
+        "Confidence trick",
+        "Confidence man",
+        "Confidence artist"
+      ]
+    },
+    {
+      "category": "FASHION",
+      "question": "Which company, named for an American designer, produces the 'Polo' line of clothes, with a logo of a polo player?",
+      "validAnswers": [
+        "Ralph Lauren",
+        "Lauren"
+      ]
+    },
+    {
+      "category": "BOTANY",
+      "question": "Sometimes also applied to food, what word is used to refer to fleshy plants that store water, such as cacti or aloe?",
+      "validAnswers": [
+        "Succulent"
+      ]
+    },
+    {
+      "category": "MUSICAL THEATRE",
+      "question": "In the opening number of 'Hairspray', Tracy Turnblad sings 'Good Morning' to what city, where the musical is primarily set?",
+      "validAnswers": [
+        "Baltimore"
+      ]
+    },
+    {
+      "category": "FOOD",
+      "question": "The edible paste 'tahini' is usually made from the seeds of what plant?",
+      "validAnswers": [
+        "Sesame"
+      ]
+    },
+    {
+      "category": "MODERN FOLKLORE",
+      "question": "First thought to have been sighted in Puerto Rico in 1995, what mythical livestock-killing creature has a name that literally translates into English as 'goat-sucker'?",
+      "validAnswers": [
+        "Chupacabra"
+      ]
+    },
+    {
+      "category": "TECHNOLOGY",
+      "question": "What does the letter 'O' stand for in the abbreviation 'OLED', referring to an increasingly-popular technology used in electronic displays?",
+      "validAnswers": [
+        "Organic"
+      ]
+    },
+    {
+      "category": "WORLD LANDMARKS",
+      "question": "A stadium known as the 'Bird's Nest', designed for use in the Olympic Games, is a landmark in what city?",
+      "validAnswers": [
+        "Beijing",
+        "Peking"
+      ]
+    },
+    {
+      "category": "19th CENTURY EVENTS",
+      "question": "The famous 'gunfight at the O.K. Corral' took place in 1881 in which morbidly-named city in Arizona?",
+      "validAnswers": [
+        "Tombstone"
+      ]
+    },
+    {
+      "category": "CINEMA",
+      "question": "The Godzilla films are perhaps the most famous examples of what genre, whose names translates from Japanese as 'monster' or 'strange beast'?",
+      "validAnswers": [
+        "Kaiju"
+      ]
+    }
+  ]
+}

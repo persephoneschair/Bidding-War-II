@@ -1,0 +1,289 @@
+{
+  "author": "lingomaniac88",
+  "r1Questions": [
+    {
+      "category": "Tabletop Games",
+      "question": "What board game's Mega Edition allows players to invest in their assets by building skyscrapers and train depots in addition to the usual houses and hotels?",
+      "validAnswers": [
+        "Monopoly"
+      ]
+    },
+    {
+      "category": "Colors",
+      "question": "Traditionally, the '1' and '4' sides of Mahjong dice have pips of what color?",
+      "validAnswers": [
+        "Red"
+      ]
+    },
+    {
+      "category": "Fashion",
+      "question": "In 2015, Roman Originals helped raise over £2,700 for Comic Relief by auctioning off a one-of-a-kind white and gold variant of what article of clothing?",
+      "validAnswers": [
+        "Dress"
+      ]
+    },
+    {
+      "category": "Anime",
+      "question": "Easily recognizable by his signature straw hat, Monkey D. Luffy is the main protagonist of what long-running series?",
+      "validAnswers": [
+        "One Piece"
+      ]
+    },
+    {
+      "category": "The 1990s",
+      "question": "Considered one of the biggest toy fads of the '90s, what virtual pet released by Bandai eventually became the inspiration for Digimon?",
+      "validAnswers": [
+        "Tamagotchi"
+      ]
+    }
+  ],
+  "r2Questions": [
+    {
+      "category": "Food & Drink",
+      "question": "The tropical juice drink POG is an acronym for the three fruits used to make it. What does the P stand for?",
+      "validAnswers": [
+        "Passionfruit",
+        "Passion",
+        "Passion Fruit"
+      ]
+    },
+    {
+      "category": "Nuclear Physics",
+      "question": "What scientist is credited with discovering the electron and developing the 'plum pudding model' of the atom?",
+      "validAnswers": [
+        "J. J. Thomson",
+        "Sir J. J. Thomson",
+        "Thomson",
+        "Sir Thomson",
+        "Joseph Thomson",
+        "Joseph John Thomson",
+        "Sir Joseph John Thomson",
+        "Sir Joseph Thomson"
+      ]
+    },
+    {
+      "category": "World War II",
+      "question": "Now a Department of Energy research facility, the Los Alamos National Laboratory was originally founded in 1943 as part of what metropolitan-sounding World War II effort to develop nuclear weapons?",
+      "validAnswers": [
+        "Manhattan Project",
+        "The Manhattan Project"
+      ]
+    },
+    {
+      "category": "The Oscars",
+      "question": "'My number was A3317. … It’s a long way from Auschwitz to this stage.' Co-producer Branko Lustig said this while accepting the Best Picture Oscar for what film?",
+      "validAnswers": [
+        "Schindler's List"
+      ]
+    },
+    {
+      "category": "Classical Music",
+      "question": "What Italian-born man was the Austrian imperial court composer from 1788 to 1824 and, despite what a 1980s Oscar-winning biopic implies, actually got along pretty well with Mozart?",
+      "validAnswers": [
+        "Antonio Salieri",
+        "Salieri"
+      ]
+    },
+    {
+      "category": "Comedy TV",
+      "question": "What game show featured the fourth movement of Beethoven's Ninth Symphony as its theme song and was also comedian Jimmy Kimmel's first role as a game show host?",
+      "validAnswers": [
+        "Win Ben Stein's Money"
+      ]
+    },
+    {
+      "category": "U.S. Politics",
+      "question": "Which politician's withdrawal from the 2012 Republican presidential primaries caused Jon Stewart to have a field day when he said during his resignation speech, 'I believe these words came from the Pokémon movie…'?",
+      "validAnswers": [
+        "Herman Cain",
+        "Cain"
+      ]
+    },
+    {
+      "category": "Word Origins",
+      "question": "What ten-letter word was coined in a 2005 episode of 'The Colbert Report' in a segment that poked fun at George W. Bush's strategy of preferring emotion over evidence in his reasoning for invading Iraq?",
+      "validAnswers": [
+        "Truthiness"
+      ]
+    },
+    {
+      "category": "Video Games",
+      "question": "What video game derives its name from the Greek prefix meaning 'four' and Alexey Pajitnov's favorite sport?",
+      "validAnswers": [
+        "Tetris"
+      ]
+    },
+    {
+      "category": "Technology",
+      "question": "First released in 2014, what digital assistant is named after a synthetic intelligence character from the Halo franchise?",
+      "validAnswers": [
+        "Cortana"
+      ]
+    }
+  ],
+  "r3Questions": [
+    {
+      "category": "Cars",
+      "question": "What luxury car manufacturer closely affiliated with Land Rover shares its name with the codename Apple used for Mac OS X version 10.2?",
+      "validAnswers": [
+        "Jaguar"
+      ]
+    },
+    {
+      "category": "Music Videos",
+      "question": "While arguably not their most famous one, what band's music video for 'Needing/Getting' premiered on the same day as Super Bowl XLVI and features lead singer Damian Kulash driving a Chevy Sonic through a specially designed rally car course?",
+      "validAnswers": [
+        "OK Go"
+      ]
+    },
+    {
+      "category": "TV Greats",
+      "question": "Which New York City-born actor's accolades include being the first to announce the slogan 'Winston tastes good like a cigarette should' and taking a prominent role in the music video for Weird Al Yankovic's 'I Lost on Jeopardy'?",
+      "validAnswers": [
+        "Art Fleming",
+        "Arthur Fleming",
+        "Fleming",
+        "Art Fazzin",
+        "Arthur Fazzin",
+        "Art Fleming Fazzin",
+        "Arthur Fleming Fazzin",
+        "Fazzin"
+      ]
+    },
+    {
+      "category": "Religion",
+      "question": "What denomination of Reformed Protestantism connects the Church of Scotland and Mr. Rogers?",
+      "validAnswers": [
+        "Presbyterianism",
+        "Presbyterian"
+      ]
+    },
+    {
+      "category": "Shapes",
+      "question": "What eight-letter word is the mathematical name for the religious symbol known as a Magen David?",
+      "validAnswers": [
+        "Hexagram",
+        "Sexagram"
+      ]
+    },
+    {
+      "category": "Social Media",
+      "question": "Alison Burke's side-by-side reaction to a viral video with the phrase 'That's right, it goes in the square hole' is an example of what musical-sounding TikTok feature?",
+      "validAnswers": [
+        "Duet"
+      ]
+    },
+    {
+      "category": "Medicine",
+      "question": "First administered in 1922, what WHO essential medicine was the subject of a tweet from 10 November 2022 that caused Eli Lilly and Company to lose $15 billion in valuation?",
+      "validAnswers": [
+        "Insulin"
+      ]
+    },
+    {
+      "category": "Pop Music",
+      "question": "What Canadian animated pop band, with singles such as 'Be As', 'Strange Disease', and 'www.nevergetoveryou', takes its name from a brand of the antidepressant drug fluoxetine?",
+      "validAnswers": [
+        "Prozzäk",
+        "Prozzak",
+        "Prozzäc",
+        "Prozzac",
+        "Simon and Milo",
+        "Simon & Milo",
+        "Prozac"
+      ]
+    }
+  ],
+  "r4Questions": [
+    {
+      "category": "Law",
+      "question": "Whose trial is being referenced in the Good Charlotte lyric, 'Did you know if you were famous you could kill your wife / And there's no such thing as 25 to life / As long as you've got the cash to pay for Cochran'?",
+      "validAnswers": [
+        "O. J. Simpson",
+        "Simpson",
+        "Orenthal James Simpson",
+        "Orenthal Simpson"
+      ]
+    },
+    {
+      "category": "Famous People",
+      "question": "On 29 December 2022, online influencer Andrew Tate was arrested by authorities in which country?",
+      "validAnswers": [
+        "Romania"
+      ]
+    },
+    {
+      "category": "Advertisements",
+      "question": "In 2011, Robin Williams appeared alongside his daughter in a commercial for what video game?",
+      "validAnswers": [
+        "The Legend of Zelda: Ocarina of Time 3D",
+        "Zelda Ocarina of Time 3D",
+        "The Legend of Zelda OoT 3D",
+        "Zelda OoT 3D",
+        "Ocarina of Time 3D",
+        "OoT 3D",
+        "The Legend of Zelda: Ocarina of Time",
+        "Zelda Ocarina of Time",
+        "The Legend of Zelda OoT",
+        "Zelda OoT",
+        "Ocarina of Time",
+        "OoT"
+      ]
+    },
+    {
+      "category": "Literature",
+      "question": "What dystopian novel topped a 2009 list of 'books Britons have pretended to read' and also inspired an iconic Apple commercial that aired during Super Bowl XVIII?",
+      "validAnswers": [
+        "Nineteen Eighty-Four",
+        "Nineteen Eighty Four",
+        "1984"
+      ]
+    },
+    {
+      "category": "Animals",
+      "question": "Inspiring at least two children's books, Roy and Silo are a famous same-sex couple from New York's Central Park Zoo of what animal? ",
+      "validAnswers": [
+        "Chinstrap penguin",
+        "Penguin",
+        "Chinstrap penguins",
+        "Penguins"
+      ]
+    },
+    {
+      "category": "Universities",
+      "question": "Located in Cambridge, Massachusetts, what university has Tim the Beaver as its mascot because the beaver is nature's engineer?",
+      "validAnswers": [
+        "MIT",
+        "Massachusetts Institute of Technology"
+      ]
+    },
+    {
+      "category": "Game Shows",
+      "question": "What punnily-named Game Show Network original hosted by Marc Summers offered contestants a chance to 'win' a $50,000 college fund?",
+      "validAnswers": [
+        "WinTuition"
+      ]
+    },
+    {
+      "category": "Sports",
+      "question": "Before he hosted 'The Cube', Dwyane Wade was the leading scorer for team USA when playing for the 'Redeem Team' during what year's summer Olympics?",
+      "validAnswers": [
+        "2008"
+      ]
+    },
+    {
+      "category": "Applied Maths",
+      "question": "What branch of mathematics takes its name from an acronym for the Society for American Baseball Research?",
+      "validAnswers": [
+        "Sabermetrics"
+      ]
+    },
+    {
+      "category": "Investing",
+      "question": "Also used in regression analysis, what Greek letter is used to denote the volatility of a stock?",
+      "validAnswers": [
+        "Beta"
+      ]
+    }
+  ]
+}

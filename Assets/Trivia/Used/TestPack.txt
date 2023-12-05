@@ -1,0 +1,181 @@
+{
+  "author": "royal_flush",
+  "r1Questions": [
+    {
+      "category": "Geography",
+      "question": "What is the capital city of France?",
+      "validAnswers": [
+        "Paris"
+      ]
+    },
+    {
+      "category": "Programming",
+      "question": "Which game engine is used to make this game?",
+      "validAnswers": [
+        "Unity Engine",
+        "Unity"
+      ]
+    },
+    {
+      "category": "Food & Drink",
+      "question": "Cider is traditionally made from which fruit?",
+      "validAnswers": [
+        "Apple",
+        "Apples"
+      ]
+    },
+    {
+      "category": "Cinema",
+      "question": "Played by Josh Brolin, who was the main villain of the Avengers Infinity Saga?",
+      "validAnswers": [
+        "Thanos",
+        "The Mad Titan"
+      ]
+    }
+  ],
+  "r2Questions": [
+    {
+      "category": "Literature",
+      "question": "The novel Mansfield Park was written by which author?",
+      "validAnswers": [
+        "Jane Austen",
+        "Austen"
+      ]
+    },
+    {
+      "category": "Sport",
+      "question": "Fresh from his recent Wimbledon victory, who is the current World ATP #1 tennis seed?",
+      "validAnswers": [
+        "Carlos Alcaraz",
+        "Alcaraz"
+      ]
+    },
+    {
+      "category": "Mathematics",
+      "question": "The sum of the first N odd numbers is equal to what?",
+      "validAnswers": [
+        "N squared",
+        "N2",
+        "N times N"
+      ]
+    },
+    {
+      "category": "Classical Music",
+      "question": "Counting the 'Revolutionary' Étude and 'Minute Waltz' amongst his most famous compositions, which composer was born in Poland in 1810?",
+      "validAnswers": [
+        "Frédéric Chopin",
+        "Chopin",
+        "Frederic Chopin"
+      ]
+    },
+    {
+      "category": "Video Games",
+      "question": "In which year was the first Tomb Raider game released on the PlayStation, PC and Sega Saturn in Europe?",
+      "validAnswers": [
+        "1996"
+      ]
+    },
+    {
+      "category": "TV Comedy",
+      "question": "Which comedian has starred in two Netflix specials entitled 'Quarter-Life Crisis' and 'Look At You'?",
+      "validAnswers": [
+        "Taylor Tomlinson",
+        "Tomlinson"
+      ]
+    },
+    {
+      "category": "Animals",
+      "question": "What breed of dog is Scooby-Doo?",
+      "validAnswers": [
+        "Great Dane"
+      ]
+    }
+  ],
+  "r3Questions": [
+    {
+      "category": "Soap Operas",
+      "question": "Lawrence, Peter, Daniel, Susan and by adoption, Tracy, are the children of which long-running Coronation Street character?",
+      "validAnswers": [
+        "Ken Barlow",
+        "Ken"
+      ]
+    },
+    {
+      "category": "Chemistry",
+      "question": "With atomic number 29, which element is a soft, malleable and ductile metal with very high thermal and electrical conductivity?",
+      "validAnswers": [
+        "Copper"
+      ]
+    },
+    {
+      "category": "Religion",
+      "question": "The Hindu god Ganesha is most-commonly depicted with the head of which animal?",
+      "validAnswers": [
+        "Elephant"
+      ]
+    },
+    {
+      "category": "Politics",
+      "question": "Which politician, played by Hugh Grant in a 2018 BBC drama, was leader of the Liberal Party from 1967-1976?",
+      "validAnswers": [
+        "Jeremy Thorpe",
+        "Thorpe",
+        "Thorp",
+        "Jeremy Thorp"
+      ]
+    },
+    {
+      "category": "Art",
+      "question": "Starry Night Over the Rhône, 'Whistler's Mother' Van Gogh self-portrait are all found in which museum?",
+      "validAnswers": [
+        "Musée d'Orsay",
+        "d'Orsay",
+        "Musee d'Orsay"
+      ]
+    }
+  ],
+  "r4Questions": [
+    {
+      "category": "Pop Music",
+      "question": "Which pop star turned actress had hit singles with 'Because We Want To', 'Honey to the Bee' & 'Day and Night'?",
+      "validAnswers": [
+        "Billie Piper",
+        "Billie",
+        "Piper"
+      ]
+    },
+    {
+      "category": "Theatre",
+      "question": "Which Shakespeare play features Tullus Aufidius as general of the Volscian army?",
+      "validAnswers": [
+        "Coriolanus"
+      ]
+    },
+    {
+      "category": "Crime",
+      "question": "Portrayed by David Tennant in a 2020 TV adaptation, what was the name of the Scottish serial killer who murdered at least twelve young men and boys between 1978 and 1983?",
+      "validAnswers": [
+        "Dennis Nilsen",
+        "Nilsen"
+      ]
+    },
+    {
+      "category": "Inventions",
+      "question": "The kaleidoscope, Bovril and the all-glass hypodermic syringe were invented by people born in which country?",
+      "validAnswers": [
+        "Scotland",
+        "Scottish"
+      ]
+    },
+    {
+      "category": "The Natural World",
+      "question": "With an area of approximately 133,000 square miles, what is considered the largest natural structure on earth?",
+      "validAnswers": [
+        "The Great Barrier Reef",
+        "Great Barrier Reef",
+        "Barrier Reef",
+        "The Barrier Reef"
+      ]
+    }
+  ]
+}

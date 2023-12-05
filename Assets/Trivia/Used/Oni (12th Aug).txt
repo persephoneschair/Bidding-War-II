@@ -1,0 +1,268 @@
+{
+  "author": "oni91_573",
+  "r1Questions": [
+    {
+      "category": "Medical Terminology",
+      "question": "The word 'cardiac' refers to which organ of the body?",
+      "validAnswers": [
+        "Heart"
+      ]
+    },
+    {
+      "category": "Colours",
+      "question": "What colour has a shade named 'cerulean'?",
+      "validAnswers": [
+        "Blue"
+      ]
+    },
+    {
+      "category": "Musical Instruments",
+      "question": "Which electronic instrument patented in 1928 can be played without being touched by the player?",
+      "validAnswers": [
+        "Theremin"
+      ]
+    },
+    {
+      "category": "Mountains",
+      "question": "What is commonly accepted as the second highest mountain in the world?",
+      "validAnswers": [
+        "K2"
+      ]
+    },
+    {
+      "category": "Football",
+      "question": "The Eredivisie football league is the highest tier of professional football in which European country?",
+      "validAnswers": [
+        "The Netherlands",
+        "Netherlands"
+      ]
+    }
+  ],
+  "r2Questions": [
+    {
+      "category": "Musicals",
+      "question": "Nominated for a Tony Award in 2021, Jagged Little Pill is a musical containing songs by which artist?",
+      "validAnswers": [
+        "Alanis Morissette",
+        "Alanis",
+        "Morissette",
+        "Alanis Morrisette",
+        "Alanis Morisette",
+        "Alanis Morrissette",
+        "Morrissette"
+      ]
+    },
+    {
+      "category": "Reality TV",
+      "question": "Which reality TV series was titled 'Loft Story' when it debuted in France?",
+      "validAnswers": [
+        "Big Brother"
+      ]
+    },
+    {
+      "category": "Food",
+      "question": "Which fruit is combined with peaches in the dessert of Peach Melba?",
+      "validAnswers": [
+        "Raspberry"
+      ]
+    },
+    {
+      "category": "Cult Cinema",
+      "question": "Sharing her name with a colour, what is the name of the character in the maid costume in the 1975 film 'The Rocky Horror Picture Show'?",
+      "validAnswers": [
+        "Magenta"
+      ]
+    },
+    {
+      "category": "European Capitals",
+      "question": "Located in the Pyrenees, which nation's capital city is the highest above sea level in Europe?",
+      "validAnswers": [
+        "Andorra",
+        "Andorra's"
+      ]
+    },
+    {
+      "category": "Classic Sitcoms",
+      "question": "What US comedy series was based on the original BBC series 'Stepford and Son'?",
+      "validAnswers": [
+        "Sanford and Son",
+        "Sanford & Son"
+      ]
+    },
+    {
+      "category": "Mythology",
+      "question": "Who was the Roman counterpart to the Greek god, Hephaestus?",
+      "validAnswers": [
+        "Vulcan"
+      ]
+    },
+    {
+      "category": "Politics",
+      "question": "Who contested the 2020 US election as an independent candidate representing the fake 'Birthday Party'?",
+      "validAnswers": [
+        "Kanye West",
+        "Kanye",
+        "West"
+      ]
+    },
+    {
+      "category": "Winter Sports",
+      "question": "What is the name of the Winter Olympic snowboarding event where the competitor performs tricks on a downhill course for points?",
+      "validAnswers": [
+        "Slopestyle"
+      ]
+    },
+    {
+      "category": "Business",
+      "question": "Jack Ma, the third-richest man in China, founded which e-commerce company in 1999?",
+      "validAnswers": [
+        "Alibaba"
+      ]
+    }
+  ],
+  "r3Questions": [
+    {
+      "category": "Art",
+      "question": "Which German art school, open between 1919 and 1933, gave its name to an art movement described as being one of the first examples of modernist art?",
+      "validAnswers": [
+        "Bauhaus",
+        "Staatliches Bauhaus"
+      ]
+    },
+    {
+      "category": "American Television",
+      "question": "In which war was the TV series M*A*S*H set?",
+      "validAnswers": [
+        "Korean War",
+        "Korean"
+      ]
+    },
+    {
+      "category": "Literature",
+      "question": "Which 1922 James Joyce novel topped Modern Library's 100 Best Novels list of the best English-language novels of the 20th century?",
+      "validAnswers": [
+        "Ulysses"
+      ]
+    },
+    {
+      "category": "Fashion",
+      "question": "Of the main four fashion weeks commonly called the Big Four, which of them is the only one that takes place outside of Europe?",
+      "validAnswers": [
+        "New York Fashion Week",
+        "New York",
+        "NY"
+      ]
+    },
+    {
+      "category": "Beer, Wine & Spirits",
+      "question": "The Belgian beer variety 'kriek lambic' is made by fermenting the beer with which fruit?",
+      "validAnswers": [
+        "Cherries",
+        "Cherry"
+      ]
+    },
+    {
+      "category": "YouTubers",
+      "question": "Rhett McLaughlin & Link Neal host which daily YouTube show, that celebrated its 2,000th episode in July 2021?",
+      "validAnswers": [
+        "Good Mythical Morning",
+        "GMM"
+      ]
+    },
+    {
+      "category": "Motoring",
+      "question": "The bike and sportscar manufacturer KTM comes from which country?",
+      "validAnswers": [
+        "Austria"
+      ]
+    },
+    {
+      "category": "Classic Rock",
+      "question": "Which Biblical-sounding rock band from Scotland had a hit with 'Hair of the Dog' in 1975?",
+      "validAnswers": [
+        "Nazareth"
+      ]
+    }
+  ],
+  "r4Questions": [
+    {
+      "category": "1960s Cinema",
+      "question": "In the 1967 film, 'Cool Hand Luke', Luke wins a bet in prison by eating fifty what?",
+      "validAnswers": [
+        "Hard-boiled eggs",
+        "Hardboiled eggs",
+        "Eggs",
+        "Egg",
+        "Boiled Eggs"
+      ]
+    },
+    {
+      "category": "Flags",
+      "question": "Of the 11 South American countries, how many do NOT have red of their flags?",
+      "validAnswers": [
+        "Three",
+        "3"
+      ]
+    },
+    {
+      "category": "Volcanoes",
+      "question": "What is the technical term for a crater-like sinkhole appearing when a magma chamber in a volcano collapses, causing the ground above it to sink into the hole?",
+      "validAnswers": [
+        "Caldera"
+      ]
+    },
+    {
+      "category": "Definitions",
+      "question": "Which English word, derived from Scandinavia, means 'an officer in charge of investigating complaints of rights violations and malpractice'?",
+      "validAnswers": [
+        "Ombudsman",
+        "Ombudswoman",
+        "Ombudsperson"
+      ]
+    },
+    {
+      "category": "The Bible",
+      "question": "In the King James Bible, which book immediately follows the Pentateuch?",
+      "validAnswers": [
+        "Joshua"
+      ]
+    },
+    {
+      "category": "Birds",
+      "question": "In Monty Python's seminal 'Dead Parrot' sketch, what specific species is the parrot?",
+      "validAnswers": [
+        "Norwegian Blue"
+      ]
+    },
+    {
+      "category": "Chemical Compounds",
+      "question": "The hydrocarbon 'octane' consists of eight carbon atoms, and how many hydrogen atoms?",
+      "validAnswers": [
+        "18",
+        "eighteen"
+      ]
+    },
+    {
+      "category": "Video Games",
+      "question": "Released in 1993, which company made the poorly-selling 'FM Towns Marty' home console?",
+      "validAnswers": [
+        "Fujitsu"
+      ]
+    },
+    {
+      "category": "Memes",
+      "question": "The song Shooting Stars, theme tune for that meme where people fall through space, was a 2008 hit for which Australian music group?",
+      "validAnswers": [
+        "Bag Raiders"
+      ]
+    },
+    {
+      "category": "Classical Music",
+      "question": "After which alcoholic drink did Sergei Rachmaninoff nickname the 24th and final variation of his work 'Rhapsody on a Theme of Paganini'?",
+      "validAnswers": [
+        "Crème de menthe",
+        "Creme de menthe"
+      ]
+    }
+  ]
+}

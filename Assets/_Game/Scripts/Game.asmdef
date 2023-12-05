@@ -1,0 +1,40 @@
+{
+    "name": "Game",
+    "rootNamespace": "",
+    "references": [
+        "GUID:3a65911d6d9d7174f94664934e4a393f",
+        "GUID:234839f5b92104d4fb68841aefec625b",
+        "GUID:13a6fdc14ca9df84eb8019bc66fa9e5d",
+        "GUID:c58356efff8494840b8ee9a3a9ca383a",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:6546d7765b4165b40850b3667f981c26",
+        "GUID:776d03a35f1b52c4a9aed9f56d7b4229",
+        "GUID:f88fb04354076c646a4107a491394033"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Newtonsoft.Json.dll",
+        "TwitchLib.Api.Core.dll",
+        "TwitchLib.Api.Core.Enums.dll",
+        "TwitchLib.Api.Core.Interfaces.dll",
+        "TwitchLib.Api.Core.Models.dll",
+        "TwitchLib.Api.dll",
+        "TwitchLib.Api.Helix.dll",
+        "TwitchLib.Api.Helix.Models.dll",
+        "TwitchLib.Api.V5.dll",
+        "TwitchLib.Api.V5.Models.dll",
+        "TwitchLib.Client.dll",
+        "TwitchLib.Client.Enums.dll",
+        "TwitchLib.Client.Models.dll",
+        "TwitchLib.Communication.dll",
+        "TwitchLib.PubSub.dll",
+        "TwitchLib.Unity.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
